@@ -64,8 +64,8 @@ captures/
 .externalNativeBuild
 .cxx/
 
-# Google Services (e.g. APIs or Firebase)
-# google-services.json
+# Huawei AppGallery Connect Services
+agconnect-services.json
 
 # Freeline
 freeline.py
